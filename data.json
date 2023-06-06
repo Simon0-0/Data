@@ -1,0 +1,11 @@
+{
+   "0":{
+      "slug":"lorem-ipsum",
+      "title":"Lorem Ipsum",
+      "publish_date":"2018-10-12T05:00:00.000Z",
+      "featured_image":"https://link.to/image.jpg",
+      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque blandit tempus feugiat. Nullam purus massa, ultricies vel erat ac, tempor condimentum lorem. Etiam malesuada egestas tincidunt.",
+      "page_title":"Welcome to Lorem Ipsum",
+      "description":"Nulla sit amet massa fringilla eros tempor tempus. Fusce auctor arcu sed ipsum eleifend, sit amet tincidunt ligula porta."
+   }
+}
