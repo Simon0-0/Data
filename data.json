@@ -1,6 +1,6 @@
-
    {
-      "0":{
+      "reviews": [
+      {
          "title":"lizzy 54",
          "publish_date":"11 months ago",
          "featured_image":"https://www.google.com/maps/uv?pb=!1s0x464932ee5eeec6bb%3A0x4ad98d1174a6de86!3m1!7e115!5sGoogle%20Search!15sCgIgAQ&hl=en&imagekey=!1e10!2sAF1QipMVo6FPcGe8ZHzCs8jP8xtClIoYUkHwdy5_wgsF&sa=X&ved=2ahUKEwjrhpOT1K7_AhXGzqQKHVQBCMsQ9fkHKAB6BAgBEEM",
@@ -8,7 +8,7 @@
          "stars": "5/5"
          
       },
-      "1":{
+      {
          "title":"Cecilie Hansen",
          "publish_date":"a week ago",
          "featured_image":" ",
@@ -16,7 +16,7 @@
          "stars": "1/5"
          
       },
-      "2":{
+      {
          "title":"Teddy Coste",
          "publish_date":"3 weeks ago",
          "featured_image":"",
@@ -24,7 +24,7 @@
          "stars": "5/5"
          
       },
-      "3":{
+      {
          "title":"Fleur Delijs",
          "publish_date":"a month ago",
          "featured_image":"",
@@ -32,7 +32,7 @@
          "stars": "5/5"
          
       },
-      "4":{
+      {
          "title":"Lisa Hervieux",
          "publish_date":"2 years ago",
          "featured_image":"https://www.google.com/maps/uv?pb=!1s0x464932ee5eeec6bb%3A0x4ad98d1174a6de86!3m1!7e115!5sGoogle%20Search!15sCgIgAQ&hl=en&imagekey=!1e10!2sAF1QipMVo6FPcGe8ZHzCs8jP8xtClIoYUkHwdy5_wgsF&sa=X&ved=2ahUKEwjrhpOT1K7_AhXGzqQKHVQBCMsQ9fkHKAB6BAgBEEM",
@@ -40,7 +40,7 @@
          "stars": "5/5"
          
       },
-      "5":{
+      {
          "title":"Tom Deprez",
          "publish_date":"9 months agoo",
          "featured_image":"https://www.google.com/maps/uv?pb=!1s0x464932ee5eeec6bb%3A0x4ad98d1174a6de86!3m1!7e115!5sGoogle%20Search!15sCgIgAQ&hl=en&imagekey=!1e10!2sAF1QipOblG-vaVYYVKsDM71tC_sa1nHhON9adlfv-eF7&sa=X&ved=2ahUKEwjC3_Ox2K7_AhXVOuwKHclOB9IQ9fkHKAB6BQgBEJwB",
@@ -48,4 +48,5 @@
          "stars": "5/5"
          
       }
+   ]
    }
